@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Carlzkie27
+- 👋 Hi, I’m Carlos
 - 👀 I’m interested in watching movies
 - 🌱 I’m currently learning R tools for my current work
 - 💞️ I’m looking to collaborate to some good and skilled people in the R tools
